@@ -27,7 +27,7 @@ public class OptionsUI : MonoBehaviour {
         }
         else
         {
-            Debug.LogWarning("No music player found... did you start from splash screen?");
+            Debug.LogWarning("No music player");
         }
     }
 
