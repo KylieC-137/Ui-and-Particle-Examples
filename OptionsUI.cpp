@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class OptionsController : MonoBehaviour {
+public class OptionsUI : MonoBehaviour {
 
     [SerializeField] Slider volumeSlider;
     [SerializeField] float defaultVolume = 0.8f;
